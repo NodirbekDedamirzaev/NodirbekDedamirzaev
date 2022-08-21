@@ -27,7 +27,7 @@
   <img src ="https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-star-icon-png-image_4231909.jpg" width ="30px">
    <img src ="https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-star-icon-png-image_4231909.jpg" width ="30px">
     <img src ="https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-star-icon-png-image_4231909.jpg" width ="30px">
-     <img src ="https://icon2.cleanpng.com/20180410/joq/kisspng-star-drawing-clip-art-5-star-5acd631f2ed740.6321481115234096951919.jpg" width ="30px">
-     <img src ="https://icon2.cleanpng.com/20180410/joq/kisspng-star-drawing-clip-art-5-star-5acd631f2ed740.6321481115234096951919.jpg" width ="30px">
+     <img src ="https://icon2.cleanpng.com/20180410/joq/kisspng-star-drawing-clip-art-5-star-5acd631f2ed740.6321481115234096951919.jpg" width ="27px">
+     <img src ="https://icon2.cleanpng.com/20180410/joq/kisspng-star-drawing-clip-art-5-star-5acd631f2ed740.6321481115234096951919.jpg" width ="27px">
   <b> HAS DONE</b>
 </code>
